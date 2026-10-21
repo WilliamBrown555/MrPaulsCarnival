@@ -22,7 +22,7 @@ A **regulars' bar that happens to do spectacle**, not a spectacle bar chasing to
 
 ## Operating Context
 
-- Location: 3917 Market St, Edina MN. Hours: Thursday–Saturday, 4pm–10pm. Instagram: @CarnivalBarMN.
+- Location: 3917 Market St, Edina MN. Hours: Thursday 4pm–9pm, Friday–Saturday 4pm–10pm. Instagram: @CarnivalBarMN.
 - Soundtrack is part of the identity: **hip hop, 1988–2003**. A Spotify playlist QR is printed on the tri-fold (`open.spotify.com/playlist/3nm1hXH4bRCMHxpv64I1l6`).
 - Menus are read in a dim bar room; legibility floors matter (established minimum ~9.3pt ingredients type on cards).
 - Part of the Mr. Paul's family (Supper Club, Apothecary Bar, cocktail class series); shares an operator and service sensibility but keeps its own identity.
