@@ -6,7 +6,7 @@
 
 web
 
-*(Primary medium today is print — menu cards and tri-folds produced by the in-vault PDF pipeline. `web` records the platform for any future digital surface; no website exists yet.)*
+*(Primary medium today is print — menu cards and tri-folds produced by the PDF pipeline in `Menu Build/menus/`. `web` records the platform for any future digital surface; no website exists yet.)*
 
 ## Users
 
@@ -47,7 +47,7 @@ A **regulars' bar that happens to do spectacle**, not a spectacle bar chasing to
 
 ## Evidence on Hand
 
-- Six production PDFs in `Efforts/Mr. Pauls/Carnival Bar/` (three cards with patterned backs, three tri-fold sizes).
+- Six production PDFs in `Documents/Mr. Pauls/Menu Build/Carnival Bar/` (three cards with patterned backs, three tri-fold sizes).
 - Build notes: `Carnival Bar Cocktail Builds.md`, `Carnival Bar V2 Cocktail Builds.md`, `Carnival Bar Cocktails.md` (source copy; contains unmenued builds: Voodoo Daiquiri, Bluest Hawaii, UnderTow, Smoked À La Louisiane, Grasshopper, Alamagoozlum, Shaved Ice #1 "Saturn").
 - Brand artwork: elephant pattern test prints (red `#962c2a`, mauve `#89696e`), original logo bitmap in the wine menu PDF, traced vector variants in the pipeline.
 - **Absent — do not fabricate:** balloon dog artwork, testimonials, press, photography of the room or drinks.
